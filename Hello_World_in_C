@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
-   printf("Hello, World!");
+   printf("Hello, World!\nThis is the first branch of the Hello_World_in_C code file.");
    return 0;
 }
